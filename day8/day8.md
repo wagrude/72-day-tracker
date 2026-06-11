@@ -26,8 +26,8 @@
 
 ### Git
 
-* [ ] git add
-* [ ] git commit
+* [x] git add
+* [x] git commit
 * [ ] git log
 * [ ] git diff
 

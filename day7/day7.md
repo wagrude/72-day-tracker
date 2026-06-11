@@ -27,9 +27,9 @@
 
 ### Git
 
-* [ ] git push
+* [x] git push
 * [ ] git pull
-* [ ] git clone
+* [x] git clone
 
 ### GitHub
 

@@ -22,8 +22,8 @@
 
 * [x] Complete Remaining Basic Maths Problem
 * [x] Complete 3 Pattern Problems
-* [ ] Learn Basic Hashing
-* [ ] Complete 1 Hashing Problem
+* [x] Learn Basic Hashing
+* [x] Complete 1 Hashing Problem
 
 ---
 
@@ -31,14 +31,14 @@
 
 ### Git
 
-* [ ] git add
-* [ ] git commit
+* [x] git add
+* [x] git commit
 * [ ] git log
 
 ### GitHub
 
-* [ ] Push New Changes
-* [ ] Upload Today's Code
+* [x] Push New Changes
+* [x] Upload Today's Code
 
 ---
 
