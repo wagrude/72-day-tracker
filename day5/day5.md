@@ -24,7 +24,7 @@
 
 ### Git
 
-* [ ] git log
+* [x] git log
 
 ### GitHub
 

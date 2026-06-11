@@ -33,7 +33,7 @@
 
 * [x] git add
 * [x] git commit
-* [ ] git log
+* [x] git log
 
 ### GitHub
 
