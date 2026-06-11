@@ -1,0 +1,37 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int hashh[1000000];
+
+int main()
+{
+    int n;
+    cin >> n;
+
+    int arr[n];
+
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+    }
+
+    // precompute
+    for (int i = 0; i < n; i++)
+    {
+        hashh[arr[i]]++;
+    }
+
+    int q;
+    cin >> q;
+
+    while (q--)
+    {
+        int number;
+        cin >> number;
+
+        // fetch
+        cout << hashh[number] << endl;
+    }
+
+    return 0;
+}
