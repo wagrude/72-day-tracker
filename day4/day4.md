@@ -28,13 +28,13 @@
 
 ### Git
 
-* [ ] git add
-* [ ] git commit
+* [x] git add
+* [x] git commit
 
 ### GitHub
 
-* [ ] Push New Changes
-* [ ] Upload Today's Code
+* [x] Push New Changes
+* [x] Upload Today's Code
 
 ---
 

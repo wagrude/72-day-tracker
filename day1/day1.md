@@ -28,6 +28,3 @@ Linux:
 [x] ls
 [x] cd
 [x] mkdir
-
-
-Hours Studied: 6

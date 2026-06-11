@@ -33,7 +33,7 @@
 ### GitHub
 
 * [x] Create dsa-cpp-journey Repository
-* [ ] Upload STL Code
+* [x] Upload STL Code
 * [x] Create README.md
 * [x] Update README.md
 
@@ -54,17 +54,5 @@
 
 ### Practice
 
-* [ ] Sum of Two Numbers
-* [ ] Swap Two Numbers
-
----
-
-Hours Studied:
-
-DSA:4
-
-DBMS:0
-
-Python:1
-
-Backend:0
+* [x] Sum of Two Numbers
+* [x] Swap Two Numbers

@@ -14,8 +14,8 @@
 
 ### Striver Sheet
 
-* [ ] Learn Basic Hashing
-* [ ] Complete 1 Hashing Problem
+* [x] Learn Basic Hashing
+* [x] Complete 1 Hashing Problem
 * [x] Complete 2 Pattern Problems
 
 ---
@@ -28,7 +28,7 @@
 
 ### GitHub
 
-* [ ] Upload Today's Code
+* [x] Upload Today's Code
 
 ---
 
