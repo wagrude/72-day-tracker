@@ -46,4 +46,3 @@
 
 * [x] Even/Odd Program
 * [x] Sum of First N Numbers
-
