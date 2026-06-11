@@ -19,8 +19,8 @@
 
 * [x] Complete Remaining Basic Maths Problem
 * [x] Complete 3 Pattern Problems
-* [ ] Learn Basic Hashing
-* [ ] Complete 1 Hashing Problem
+* [x] Learn Basic Hashing
+* [x] Complete 1 Hashing Problem
 
 ---
 
@@ -42,11 +42,11 @@
 
 ### Functions
 
-* [ ] Function Basics
-* [ ] Function with Parameters
-* [ ] Return Statement
+* [x] Function Basics
+* [x] Function with Parameters
+* [x] Return Statement
 
 ### Practice
 
-* [ ] Sum Function
-* [ ] Max of Two Numbers Function
+* [x] Sum Function
+* [x] Max of Two Numbers Function
