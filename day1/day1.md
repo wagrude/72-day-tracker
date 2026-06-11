@@ -19,10 +19,10 @@ LeetCode:
 
 ## Backend
 
-[] Git Basics
-[] GitHub Basics
-[] Repository
-[] Commit
+[x] Git Basics
+[x] GitHub Basics
+[x] Repository
+[x] Commit
 
 Linux:
 [x] ls
