@@ -4,21 +4,21 @@
 
 ### Striver Sheet
 
-* [ ] Complete Remaining Learn the Basics Problems
-* [ ] Revise Basic Hashing
-* [ ] Solve 2 Hashing Problems
+* [x] Complete Remaining Learn the Basics Problems
+* [x] Revise Basic Hashing
+* [x] Solve 2 Hashing Problems
 
 ### STL
 
-* [ ] Revision of All Containers
-* [ ] Revision of Time Complexities
-* [ ] Learn Iterators
+* [x] Revision of All Containers
+* [x] Revision of Time Complexities
+* [x] Learn Iterators
 
 ### Practice
 
-* [ ] Frequency Count using unordered_map
-* [ ] Character Frequency Counter
-* [ ] Most Frequent Element in Array
+* [x] Frequency Count using unordered_map
+* [x] Character Frequency Counter
+* [x] Most Frequent Element in Array
 
 ---
 
@@ -29,11 +29,11 @@
 * [x] git add
 * [x] git commit
 * [x] git log
-* [ ] git diff
+* [x] git diff
 
 ### GitHub
 
-* [ ] Push Today's Code
+* [x] Push Today's Code
 * [ ] Verify Commit History
 
 ---
