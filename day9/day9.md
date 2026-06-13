@@ -54,7 +54,7 @@
 * [ ] Default Arguments
 * [ ] Keyword Arguments
 
-### Practice
+### Python Practice
 
 * [ ] Power Function
 * [ ] Palindrome Function
