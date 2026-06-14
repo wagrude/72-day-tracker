@@ -51,13 +51,13 @@
 
 ### Functions
 
-* [ ] Default Arguments
-* [ ] Keyword Arguments
+* [x] Default Arguments
+* [x] Keyword Arguments
 
 ### Practice
 
-* [ ] Factorial Function
-* [ ] Prime Check Function
+* [x] Factorial Function
+* [x] Prime Check Function
 
 ---
 

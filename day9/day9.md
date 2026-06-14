@@ -51,13 +51,13 @@
 
 ### Functions
 
-* [ ] Default Arguments
-* [ ] Keyword Arguments
+* [x] Default Arguments
+* [x] Keyword Arguments
 
 ### Python Practice
 
-* [ ] Power Function
-* [ ] Palindrome Function
+* [x] Power Function
+* [x] Palindrome Function
 
 ---
 

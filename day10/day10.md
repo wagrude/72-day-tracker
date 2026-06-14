@@ -52,13 +52,13 @@
 
 ### Functions
 
-* [ ] Lambda Functions (Introduction)
-* [ ] Recursion in Python (Introduction)
+* [x] Lambda Functions (Introduction)
+* [x] Recursion in Python (Introduction)
 
 ### Practice
 
-* [ ] Fibonacci Function
-* [ ] GCD Function
+* [x] Fibonacci Function
+* [x] GCD Function
 
 ```
 ```

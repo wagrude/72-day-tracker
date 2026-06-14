@@ -51,13 +51,13 @@
 
 ### Functions
 
-* [ ] Function Basics Revision
-* [ ] Function with Parameters
-* [ ] Return Statement
-* [ ] Default Arguments
+* [x] Function Basics Revision
+* [x] Function with Parameters
+* [x] Return Statement
+* [x] Default Arguments
 
 ### Practice
 
-* [ ] Factorial Function
-* [ ] Prime Check Function
-* [ ] Fibonacci Function
+* [x] Factorial Function
+* [x] Prime Check Function
+* [x] Fibonacci Function
