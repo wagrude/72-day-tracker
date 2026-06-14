@@ -55,11 +55,11 @@
 
 ### Functions
 
-* [ ] Function Basics
-* [ ] Function with Parameters
-* [ ] Return Statement
+* [x] Function Basics
+* [x] Function with Parameters
+* [x] Return Statement
 
 ### Practice
 
-* [ ] Sum Function
-* [ ] Max of Two Numbers Function
+* [x] Sum Function
+* [x] Max of Two Numbers Function

@@ -44,8 +44,8 @@
 
 ### Functions
 
-* [ ] Return Statement
+* [x] Return Statement
 
 ### Practice
 
-* [ ] Max of Two Numbers Function
+* [x] Max of Two Numbers Function
