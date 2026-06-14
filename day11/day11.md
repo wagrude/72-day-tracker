@@ -31,8 +31,8 @@
 * [ ] git restore
 * [x] git reset (basic)
 * [x] git branch
-* [ ] git checkout
-* [ ] git merge (basic idea)
+* [x] git checkout
+* [x] git merge (basic idea)
 
 ### GitHub
 
