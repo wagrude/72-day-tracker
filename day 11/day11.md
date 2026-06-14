@@ -66,20 +66,14 @@
 
 ## Python
 
-### Functions
+### Sessions
 
-* [ ] Lambda Functions
-* [ ] Recursion Basics
-
-### Collections
-
-* [ ] List
-* [ ] Tuple
-* [ ] Dictionary
+* [x] Session 1 – Python Language Features
+* [x] Session 2 – Comments, Identifiers and Keywords
+* [x] Session 3 – Variables and Assignment
 
 ### Practice
 
-* [ ] Fibonacci Function
-* [ ] GCD Function
-* [ ] Reverse a List
-* [ ] Word Frequency using Dictionary
+* [x] Print "Hello, World!"
+* [x] Sum of Two Numbers
+* [x] Swap Two Numbers
