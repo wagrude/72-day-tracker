@@ -40,10 +40,10 @@
 
 ## DBMS
 
-* [ ] Database vs File System
-* [ ] Why DBMS is Needed
-* [ ] Advantages of DBMS
-* [ ] DBMS Architecture (Introduction)
+* [x] Database vs File System
+* [x] Why DBMS is Needed
+* [x] Advantages of DBMS
+* [x] DBMS Architecture (Introduction)
 
 ---
 

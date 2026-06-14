@@ -57,8 +57,8 @@
 
 ## DBMS
 
-* [ ] Database vs File System
-* [ ] DBMS Advantages
+* [x] Database vs File System
+* [x] DBMS Advantages
 * [ ] Three Schema Architecture
 * [ ] Levels of Data Abstraction
 

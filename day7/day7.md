@@ -40,7 +40,7 @@
 
 ## DBMS
 
-* [ ] Database vs File System Revision
+* [x] Database vs File System Revision
 * [ ] ER Model Introduction
 * [ ] Entities and Attributes
 * [ ] Types of Keys (Primary, Foreign, Candidate)
