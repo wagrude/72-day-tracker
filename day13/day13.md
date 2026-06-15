@@ -58,9 +58,9 @@
 
 ### Sessions
 
-* [ ] Session 4 – Expressions and Statements, Indentation
-* [ ] Session 5 – Data Types: Numbers, Strings
-* [ ] Session 6 – Data Types: Lists, Sets, Tuples
+* [x] Session 4 – Expressions and Statements, Indentation
+* [x] Session 5 – Data Types: Numbers, Strings
+* [x] Session 6 – Data Types: Lists, Sets, Tuples
 
 ### Practice
 

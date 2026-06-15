@@ -57,9 +57,9 @@
 
 ### Sessions
 
-* [ ] Session 1 – Python Language Features
-* [ ] Session 2 – Comments, Identifiers and Keywords
-* [ ] Session 3 – Variables and Assignment
+* [x] Session 1 – Python Language Features
+* [x] Session 2 – Comments, Identifiers and Keywords
+* [x] Session 3 – Variables and Assignment
 
 ### Practice
 
