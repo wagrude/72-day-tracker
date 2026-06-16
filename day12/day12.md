@@ -27,8 +27,8 @@
 ### Git
 
 * [ ] git restore
-* [ ] git checkout
-* [ ] git merge (basic idea)
+* [x] git checkout
+* [x] git merge (basic idea)
 
 ### Linux
 
@@ -47,9 +47,9 @@
 
 ## DBMS
 
-* [ ] Lecture 4
-* [ ] Lecture 5
-* [ ] Lecture 6
+* [x] Lecture 4
+* [x] Lecture 5
+* [x] Lecture 6
 
 ---
 
