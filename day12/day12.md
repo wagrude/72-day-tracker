@@ -6,19 +6,19 @@
 
 #### Learn Important Sorting Techniques
 
-* [ ] Selection Sort
-* [ ] Bubble Sort
-* [ ] Insertion Sort
+* [x] Selection Sort
+* [x] Bubble Sort
+* [x] Insertion Sort
 
 ### Practice
 
-* [ ] Code Selection Sort
-* [ ] Code Bubble Sort
-* [ ] Code Insertion Sort
+* [x] Code Selection Sort
+* [x] Code Bubble Sort
+* [x] Code Insertion Sort
 
 ### Arrays
 
-* [ ] Complete 2 Array Problems from Striver Sheet
+* [x] Complete 2 Array Problems from Striver Sheet
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### Git
 
-* [ ] git restore
+* [x] git restore
 * [x] git checkout
 * [x] git merge (basic idea)
 
