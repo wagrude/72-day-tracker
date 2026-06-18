@@ -6,20 +6,20 @@
 
 #### Learn Important Sorting Techniques
 
-* [ ] Merge Sort
-* [ ] Quick Sort
-* [ ] Recursive Bubble Sort
-* [ ] Recursive Insertion Sort
+* [x] Merge Sort
+* [x] Quick Sort
+* [x] Recursive Bubble Sort
+* [x] Recursive Insertion Sort
 
 ### Practice
 
-* [ ] Code Merge Sort
-* [ ] Code Quick Sort
-* [ ] Dry Run Both Algorithms
+* [x] Code Merge Sort
+* [x] Code Quick Sort
+* [x] Dry Run Both Algorithms
 
 ### Arrays
 
-* [ ] Complete 2 Array Problems from Striver Sheet
+* [x] Complete 2 Array Problems from Striver Sheet
 
 ---
 

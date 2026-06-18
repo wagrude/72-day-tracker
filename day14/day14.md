@@ -6,19 +6,19 @@
 
 #### Arrays
 
-* [ ] Solve 3 Array Problems from Striver Sheet
-* [ ] Revise Prefix Sum Concept (if encountered)
+* [x] Solve 3 Array Problems from Striver Sheet
+* [x] Revise Prefix Sum Concept (if encountered)
 
 ### Sorting Revision
 
-* [ ] Revise Merge Sort
-* [ ] Revise Quick Sort
+* [x] Revise Merge Sort
+* [x] Revise Quick Sort
 
 ### Practice
 
-* [ ] Dry Run Merge Sort
-* [ ] Dry Run Quick Sort
-* [ ] Compare Time Complexities of All Sorting Algorithms
+* [x] Dry Run Merge Sort
+* [x] Dry Run Quick Sort
+* [x] Compare Time Complexities of All Sorting Algorithms
 
 ---
 
