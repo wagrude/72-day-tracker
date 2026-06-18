@@ -6,13 +6,13 @@
 
 #### Binary Search
 
-* [ ] Learn Binary Search
-* [ ] Implement Binary Search
-* [ ] Solve 2 Binary Search Problems
+* [x] Learn Binary Search
+* [x] Implement Binary Search
+* [x] Solve 2 Binary Search Problems
 
 ### Arrays
 
-* [ ] Solve 2 Array Problems
+* [x] Solve 2 Array Problems
 
 ---
 
@@ -21,7 +21,7 @@
 ### Git
 
 * [ ] git fetch
-* [ ] git remote -v
+* [x] git remote -v
 
 ### Linux
 
