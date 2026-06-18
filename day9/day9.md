@@ -40,10 +40,10 @@
 
 ## DBMS
 
-* [ ] Database vs File System
-* [ ] Advantages of DBMS
-* [ ] DBMS Architecture
-* [ ] Three Schema Architecture
+* [x] Database vs File System
+* [x] Advantages of DBMS
+* [x] DBMS Architecture
+* [x] Three Schema Architecture
 
 ---
 
