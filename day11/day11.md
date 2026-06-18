@@ -28,7 +28,7 @@
 ### Git
 
 * [x] git diff
-* [ ] git restore
+* [x] git restore
 * [x] git reset (basic)
 * [x] git branch
 * [x] git checkout
