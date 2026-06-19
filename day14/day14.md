@@ -64,5 +64,5 @@
 ### Practice
 
 * [ ] Student Dictionary Program
-* [ ] Calculator using User Input
+* [x] Calculator using User Input
 * [ ] Find Maximum of Three Numbers
