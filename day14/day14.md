@@ -47,9 +47,9 @@
 
 ## DBMS
 
-* [ ] Lecture 10
-* [ ] Lecture 11
-* [ ] Lecture 12
+* [x] Lecture 10
+* [x] Lecture 11
+* [x] Lecture 12
 
 ---
 
