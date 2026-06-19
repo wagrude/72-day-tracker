@@ -57,9 +57,9 @@
 
 ### Sessions
 
-* [ ] Session 7 – Dictionaries & Data Type Conversions
-* [ ] Session 8 – Input & Output Statements
-* [ ] Session 9 – Arithmetic & Comparison Operators
+* [x] Session 7 – Dictionaries & Data Type Conversions
+* [x] Session 8 – Input & Output Statements
+* [x] Session 9 – Arithmetic & Comparison Operators
 
 ### Practice
 
