@@ -6,14 +6,14 @@
 
 #### Arrays
 
-* [ ] Complete Remaining 3 Easy Array Problems
-* [ ] Start Medium Arrays
+* [x] Complete Remaining 3 Easy Array Problems
+* [x] Start Medium Arrays
 * [ ] Solve 2 Medium Array Problems
 
 ### Practice
 
 * [ ] Revise Prefix Sum (if encountered)
-* [ ] Dry Run Today's Array Problems
+* [x] Dry Run Today's Array Problems
 
 ---
 
