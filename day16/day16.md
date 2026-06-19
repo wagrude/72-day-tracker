@@ -4,16 +4,16 @@
 
 ### Striver Sheet
 
-#### Binary Search
+#### Arrays
 
-* [x] Lower Bound
-* [x] Upper Bound
-* [x] Search Insert Position
+* [ ] Complete Remaining 3 Easy Array Problems
+* [ ] Start Medium Arrays
+* [ ] Solve 2 Medium Array Problems
 
 ### Practice
 
-* [x] Solve 2 Binary Search Problems
-* [x] Revise Binary Search Template
+* [ ] Revise Prefix Sum (if encountered)
+* [ ] Dry Run Today's Array Problems
 
 ---
 
@@ -23,6 +23,7 @@
 
 * [ ] git stash
 * [ ] git stash pop
+* [ ] git fetch
 
 ### Linux
 
@@ -32,16 +33,16 @@
 
 ### Backend Fundamentals
 
-* [ ] HTTP Status Codes (201, 400, 401, 403, 500)
+* [ ] HTTP Methods (GET, POST, PUT, DELETE)
 * [ ] URL vs URI
 
 ---
 
 ## DBMS
 
-* [ ] Lecture 16
-* [ ] Lecture 17
-* [ ] Lecture 18
+* [ ] Lecture 13
+* [ ] Lecture 14
+* [ ] Lecture 15
 
 ---
 
@@ -49,15 +50,15 @@
 
 ### Sessions
 
-* [ ] Session 13 – Introduction to Numbers
-* [ ] Session 14 – If Statement
-* [ ] Session 15 – If-Else Statement
+* [ ] Session 10 – Assignment Operators & Bitwise Operators
+* [ ] Session 11 – Logical & Membership Operators
+* [ ] Session 12 – Identity Operators & Operator Precedence
 
 ### Practice
 
-* [ ] Largest of Three Numbers
-* [ ] Grade Calculator
-* [ ] Positive / Negative / Zero Checker
+* [ ] Calculator using Operators
+* [ ] Membership Operator Demo
+* [ ] Identity Operator Demo
 
 ---
 
@@ -65,9 +66,9 @@
 
 ### Unit 1
 
-* [ ] Problem Solving in AI
-* [ ] State Space Search
-* [ ] Types of Search Problems
+* [ ] AI Basics
+* [ ] History of AI
+* [ ] Intelligent Agents
 
 ---
 
@@ -75,14 +76,9 @@
 
 ### Core Java
 
-* [ ] Operators
-* [ ] User Input (`Scanner`)
-* [ ] if-else in Java
-
-### Practice
-
-* [ ] Even/Odd Program
-* [ ] Largest of Three Numbers
+* [ ] JVM vs JRE vs JDK
+* [ ] Variables & Data Types
+* [ ] First Java Program
 
 ---
 
@@ -90,6 +86,6 @@
 
 ### Unit 1
 
-* [ ] Components of Operating System
-* [ ] Services of Operating System
-* [ ] Batch Operating System
+* [ ] Introduction to Operating System
+* [ ] Functions of Operating System
+* [ ] Types of Operating Systems
