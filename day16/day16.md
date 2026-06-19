@@ -6,14 +6,14 @@
 
 #### Binary Search
 
-* [ ] Lower Bound
-* [ ] Upper Bound
-* [ ] Search Insert Position
+* [x] Lower Bound
+* [x] Upper Bound
+* [x] Search Insert Position
 
 ### Practice
 
-* [ ] Solve 2 Binary Search Problems
-* [ ] Revise Binary Search Template
+* [x] Solve 2 Binary Search Problems
+* [x] Revise Binary Search Template
 
 ---
 
