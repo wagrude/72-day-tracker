@@ -8,7 +8,7 @@
 
 * [x] Complete Remaining 3 Easy Array Problems
 * [x] Start Medium Arrays
-* [ ] Solve 2 Medium Array Problems
+* [x] Solve 2 Medium Array Problems
 
 ### Practice
 
