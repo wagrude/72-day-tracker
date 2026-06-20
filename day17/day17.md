@@ -20,8 +20,8 @@
 
 ### Git
 
-* [ ] git cherry-pick (Introduction)
-* [ ] git revert (Basic Idea)
+* [x] git cherry-pick (Introduction)
+* [x] git revert (Basic Idea)
 
 ### Linux
 
