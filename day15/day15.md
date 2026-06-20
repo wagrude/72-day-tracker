@@ -73,8 +73,8 @@
 
 ### Core Java
 
-* [ ] JVM vs JRE vs JDK
-* [ ] First Java Program
+* [x] JVM vs JRE vs JDK
+* [x] First Java Program
 * [ ] Variables & Data Types
 
 ---
