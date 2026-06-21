@@ -20,14 +20,8 @@
 
 ### Git
 
-* [ ] git fetch
+* [x] git fetch
 * [x] git remote -v
-
-### Linux
-
-* [ ] cat
-* [ ] echo
-* [ ] history
 
 ### Backend Fundamentals
 
