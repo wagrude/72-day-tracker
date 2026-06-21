@@ -14,9 +14,9 @@
 
 ### Practice
 
-* [ ] Count Frequency using Map
-* [ ] Store Unique Elements using Set
-* [ ] Find Duplicate Elements using Set
+* [x] Count Frequency using Map
+* [x] Store Unique Elements using Set
+* [x] Find Duplicate Elements using Set
 
 ### Striver Sheet
 
