@@ -63,6 +63,6 @@
 
 ### Practice
 
-* [ ] Print "Hello, World!"
-* [ ] Sum of Two Numbers
-* [ ] Swap Two Numbers
+* [x] Print "Hello, World!"
+* [x] Sum of Two Numbers
+* [x] Swap Two Numbers

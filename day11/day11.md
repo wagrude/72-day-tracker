@@ -40,12 +40,6 @@
 * [x] Verify Commit History
 * [x] Write Good Commit Messages
 
-### Linux
-
-* [ ] touch
-* [ ] rm
-* [ ] cp
-* [ ] mv
 
 ### Backend Fundamentals
 

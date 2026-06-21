@@ -34,7 +34,7 @@
 ### GitHub
 
 * [x] Push Today's Code
-* [ ] Verify Commit History
+* [x] Verify Commit History
 
 ---
 

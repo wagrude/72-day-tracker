@@ -27,8 +27,8 @@
 ### Git
 
 * [x] git diff
-* [ ] git restore
-* [ ] git reset (soft understanding)
+* [x] git restore
+* [x] git reset (soft understanding)
 
 ### GitHub
 
@@ -61,9 +61,3 @@
 
 ---
 
-## Open Source
-
-* [ ] Select Final GSSoC Project
-* [ ] Read Contribution Guidelines
-* [ ] Explore Folder Structure
-* [ ] Find 2 Good First Issues
