@@ -40,8 +40,8 @@
 
 ## DBMS
 
-* [ ] Lecture 13
-* [ ] Lecture 14
+* [x] Lecture 13
+* [x] Lecture 14
 * [ ] Lecture 15
 
 ---
