@@ -27,9 +27,9 @@
 
 ### Git
 
-* [ ] git stash (Introduction)
-* [ ] git stash pop
-* [ ] git remote -v
+* [x] git stash (Introduction)
+* [x] git stash pop
+* [x] git remote -v
 
 ### Linux
 
