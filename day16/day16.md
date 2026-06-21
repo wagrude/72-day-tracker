@@ -50,9 +50,9 @@
 
 ### Sessions
 
-* [ ] Session 10 – Assignment Operators & Bitwise Operators
-* [ ] Session 11 – Logical & Membership Operators
-* [ ] Session 12 – Identity Operators & Operator Precedence
+* [x] Session 10 – Assignment Operators & Bitwise Operators
+* [x] Session 11 – Logical & Membership Operators
+* [x] Session 12 – Identity Operators & Operator Precedence
 
 ### Practice
 
