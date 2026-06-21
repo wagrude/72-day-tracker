@@ -12,7 +12,7 @@
 
 ### Practice
 
-* [ ] Revise Prefix Sum (if encountered)
+* [x] Revise Prefix Sum (if encountered)
 * [x] Dry Run Today's Array Problems
 
 ---
