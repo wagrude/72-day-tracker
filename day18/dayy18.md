@@ -6,13 +6,13 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
+* [x] Solve 3 Medium Array Problems
 * [ ] Revise Today's Approaches
 
 ### Practice
 
-* [ ] Dry Run All 3 Problems
-* [ ] Write Time & Space Complexity
+* [x] Dry Run All 3 Problems
+* [x] Write Time & Space Complexity
 
 ---
 
