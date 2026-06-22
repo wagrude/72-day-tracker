@@ -6,7 +6,7 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
+* [x] Solve 3 Medium Array Problems
 * [ ] Revise Previous Medium Problems
 
 ### Practice
