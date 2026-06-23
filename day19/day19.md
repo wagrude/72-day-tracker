@@ -7,12 +7,12 @@
 #### Arrays
 
 * [x] Solve 3 Medium Array Problems
-* [ ] Revise Previous Medium Problems
+* [x] Revise Previous Medium Problems
 
 ### Practice
 
-* [ ] Dry Run One Problem
-* [ ] Write Optimal Approach
+* [x] Dry Run One Problem
+* [x] Write Optimal Approach
 
 ---
 
