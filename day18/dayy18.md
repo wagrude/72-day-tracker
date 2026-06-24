@@ -7,7 +7,7 @@
 #### Arrays
 
 * [x] Solve 3 Medium Array Problems
-* [ ] Revise Today's Approaches
+* [x] Revise Today's Approaches
 
 ### Practice
 
