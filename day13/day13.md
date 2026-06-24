@@ -31,13 +31,6 @@
 * [x] git stash pop
 * [x] git remote -v
 
-### Linux
-
-* [ ] cat
-* [ ] echo
-* [ ] clear
-* [ ] history
-
 ### Backend Fundamentals
 
 * [ ] HTTP Methods (GET, POST, PUT, DELETE)
