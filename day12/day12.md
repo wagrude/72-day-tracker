@@ -32,10 +32,10 @@
 
 ### Linux
 
-* [ ] touch
-* [ ] rm
-* [ ] cp
-* [ ] mv
+* [x] touch
+* [x] rm
+* [x] cp
+* [x] mv
 
 ### Backend Fundamentals
 
