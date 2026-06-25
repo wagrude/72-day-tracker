@@ -25,9 +25,9 @@
 
 ### Linux
 
-* [ ] head
-* [ ] tail
-* [ ] chmod
+* [x] head
+* [x] tail
+* [x] chmod
 
 ### Backend Fundamentals
 
