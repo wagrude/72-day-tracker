@@ -11,8 +11,8 @@
 
 ### Practice
 
-* [ ] Write Brute Force vs Optimal Approach
-* [ ] Note Time & Space Complexity
+* [x] Write Brute Force vs Optimal Approach
+* [x] Note Time & Space Complexity
 
 ---
 
