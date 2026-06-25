@@ -6,13 +6,13 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
-* [ ] Revise Previous Medium Problems
+* [x] Solve 3 Medium Array Problems
+* [x] Revise Previous Medium Problems
 
 ### Practice
 
-* [ ] Identify Brute Force vs Better vs Optimal Approach
-* [ ] Write Complexity Analysis
+* [x] Identify Brute Force vs Better vs Optimal Approach
+* [x] Write Complexity Analysis
 
 ---
 
