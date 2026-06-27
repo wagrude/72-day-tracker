@@ -6,13 +6,13 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
-* [ ] Revise 2 Previously Solved Problems
+* [x] Solve 3 Medium Array Problems
+* [x] Revise 2 Previously Solved Problems
 
 ### Practice
 
-* [ ] Dry Run Today's Problems
-* [ ] Write Optimal Approach
+* [x] Dry Run Today's Problems
+* [x] Write Optimal Approach
 
 ---
 
