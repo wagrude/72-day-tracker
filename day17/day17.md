@@ -40,7 +40,7 @@
 
 * [x] Lecture 16
 * [x] Lecture 17
-* [ ] Lecture 18
+* [x] Lecture 18
 
 ---
 
