@@ -19,7 +19,7 @@
 ## DBMS
 
 * [x] Lecture 19
-* [ ] Lecture 20
+* [x] Lecture 20
 * [ ] Lecture 21
 
 ---
