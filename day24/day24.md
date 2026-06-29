@@ -6,13 +6,13 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
-* [ ] Revise 2 Previously Solved Medium Problems
+* [x] Solve 3 Medium Array Problems
+* [x] Revise 2 Previously Solved Medium Problems
 
 ### Practice
 
-* [ ] Identify Pattern Used in Each Problem
-* [ ] Write Time & Space Complexity
+* [x] Identify Pattern Used in Each Problem
+* [x] Write Time & Space Complexity
 
 ---
 
