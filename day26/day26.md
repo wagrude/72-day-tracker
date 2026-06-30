@@ -6,13 +6,13 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
-* [ ] Revise 2 Previous Medium Problems
+* [x] Solve 3 Medium Array Problems
+* [x] Revise 2 Previous Medium Problems
 
 ### Practice
 
-* [ ] Identify Pattern Used
-* [ ] Write Optimal Solution without Notes
+* [x] Identify Pattern Used
+* [x] Write Optimal Solution without Notes
 
 ---
 
