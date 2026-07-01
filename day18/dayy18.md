@@ -20,7 +20,7 @@
 
 * [x] Lecture 19
 * [x] Lecture 20
-* [ ] Lecture 21
+* [x] Lecture 21
 
 ---
 
