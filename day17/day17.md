@@ -48,9 +48,9 @@
 
 ### Sessions
 
-* [ ] Session 13 – Introduction to Numbers
-* [ ] Session 14 – If Statement
-* [ ] Session 15 – If-Else Statement
+* [x] Session 13 – Introduction to Numbers
+* [x] Session 14 – If Statement
+* [x] Session 15 – If-Else Statement
 
 ### Practice
 
