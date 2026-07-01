@@ -26,16 +26,9 @@
 
 ### Git
 
-* [ ] git stash apply
-* [ ] git stash list
-* [ ] git remote add origin
+* [x] git remote add origin
 
-### Linux
 
-* [ ] pwd Revision
-* [ ] ls -l
-* [ ] mkdir
-* [ ] rmdir
 
 ### Backend Fundamentals
 
