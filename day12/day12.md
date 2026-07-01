@@ -37,13 +37,6 @@
 * [x] cp
 * [x] mv
 
-### Backend Fundamentals
-
-* [ ] What is HTTP?
-* [ ] Request vs Response
-* [ ] Status Codes (200, 404, 500)
-
----
 
 ## DBMS
 
