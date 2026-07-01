@@ -76,14 +76,3 @@
 - [ ] Mutual Exclusion
 
 ---
-
-## Probability & Statistics
-
-### Basics
-
-- [ ] Random Variables
-- [ ] Probability Distribution
-
-### Practice
-
-- [ ] Solve 5 Questions
