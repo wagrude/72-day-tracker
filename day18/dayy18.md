@@ -28,8 +28,8 @@
 
 ### Sessions
 
-* [ ] Session 16 – If-Elif-Else Statement
-* [ ] Session 17 – While Loop
+* [x] Session 16 – If-Elif-Else Statement
+* [x] Session 17 – While Loop
 * [ ] Session 18 – For Loop
 
 ### Practice
