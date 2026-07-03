@@ -86,6 +86,6 @@
 
 ### Unit 1
 
-* [ ] Introduction to Operating System
-* [ ] Functions of Operating System
-* [ ] Types of Operating Systems
+* [x] Introduction to Operating System
+* [x] Functions of Operating System
+* [x] Types of Operating Systems
