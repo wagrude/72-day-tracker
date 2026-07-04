@@ -12,9 +12,8 @@
 
 ### Practice
 
-- [ ] Implement Binary Search Iteratively
+- [x] Implement Binary Search Iteratively
 - [ ] Implement Binary Search Recursively
-
 ---
 
 ## DBMS
