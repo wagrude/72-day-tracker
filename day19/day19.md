@@ -67,8 +67,8 @@
 
 ### Unit 1
 
-* [ ] Multithreaded System
-* [ ] Layered Structure
+* [x] Multithreaded System
+* [x] Layered Structure
 * [ ] Monolithic Kernel
 
 ---
