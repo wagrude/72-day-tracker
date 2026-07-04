@@ -79,10 +79,10 @@
 
 ### FreeCodeCamp Backend Path
 
-* [ ] Python Tutorial for Beginners (Continue)
+* [x] Python Tutorial for Beginners (Continue)
 
 ### Backend Fundamentals
 
-* [ ] What is a Database?
+* [x] What is a Database?
 * [ ] SQL vs NoSQL
 * [ ] Why PostgreSQL?
