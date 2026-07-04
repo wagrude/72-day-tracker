@@ -69,9 +69,9 @@
 
 ### Unit 1
 
-* [ ] Multiprocessor System
-* [ ] Multiuser System
-* [ ] Multiprocess System
+* [x] Multiprocessor System
+* [x] Multiuser System
+* [x] Multiprocess System
 
 ---
 
