@@ -21,15 +21,15 @@
 
 ### Git
 
-* [ ] git stash
-* [ ] git stash pop
-* [ ] git fetch
+* [x] git stash
+* [x] git stash pop
+* [x] git fetch
 
 ### Linux
 
-* [ ] find
-* [ ] grep
-* [ ] wc
+* [x] find
+* [x] grep
+* [x] wc
 
 ### Backend Fundamentals
 

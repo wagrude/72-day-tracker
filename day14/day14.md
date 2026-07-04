@@ -30,12 +30,6 @@
 
 
 
-### Backend Fundamentals
-
-* [ ] Client vs Server
-* [ ] What is an API?
-* [ ] REST API Basics
-
 ---
 
 ## DBMS
