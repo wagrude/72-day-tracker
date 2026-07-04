@@ -6,14 +6,14 @@
 
 #### Binary Search
 
-- [ ] Solve 3 Binary Search Problems (1D Arrays)
-- [ ] Revise Binary Search Pattern
+- [x] Solve 3 Binary Search Problems (1D Arrays)
+- [x] Revise Binary Search Pattern
 
 ### Practice
 
-- [ ] Implement Lower Bound
-- [ ] Implement Upper Bound
-- [ ] Compare STL vs Manual Implementation
+- [x] Implement Lower Bound
+- [x] Implement Upper Bound
+- [x] Compare STL vs Manual Implementation
 
 ---
 
