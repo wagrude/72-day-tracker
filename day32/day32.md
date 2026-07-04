@@ -6,13 +6,13 @@
 
 #### Binary Search
 
-- [ ] Solve 3 Binary Search Problems
-- [ ] Revise Previous Binary Search Problems
+- [x] Solve 3 Binary Search Problems
+- [x] Revise Previous Binary Search Problems
 
 ### Practice
 
-- [ ] Search Insert Position
-- [ ] Find Peak Element
+- [x] Search Insert Position
+- [x] Find Peak Element
 - [ ] Binary Search on Answer (Introduction)
 
 ---
