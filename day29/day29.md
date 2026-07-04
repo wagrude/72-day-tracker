@@ -6,9 +6,9 @@
 
 #### Binary Search
 
-- [ ] Learn Binary Search Basics
-- [ ] Solve 3 BS on 1D Array Problems
-- [ ] Revise Binary Search Template
+- [x] Learn Binary Search Basics
+- [x] Solve 3 BS on 1D Array Problems
+- [x] Revise Binary Search Template
 
 ### Practice
 
