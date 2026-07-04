@@ -77,4 +77,4 @@
 
 ### FreeCodeCamp
 
-* [ ] Python Tutorial for Beginners (Continue)
+* [x] Python Tutorial for Beginners (Continue)
