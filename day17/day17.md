@@ -89,6 +89,6 @@
 
 ### Unit 1
 
-* [ ] Batch Operating System
-* [ ] Time Sharing Operating System
-* [ ] Real Time Operating System
+* [x] Batch Operating System
+* [x] Time Sharing Operating System
+* [x] Real Time Operating System
