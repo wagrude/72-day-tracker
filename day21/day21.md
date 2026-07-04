@@ -79,7 +79,7 @@
 
 ### FreeCodeCamp Backend Path
 
-* [ ] Python Tutorial for Beginners (Continue)
+* [x] Python Tutorial for Beginners (Continue)
 
 ### Backend Fundamentals
 
