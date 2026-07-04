@@ -79,13 +79,3 @@
 
 ---
 
-## Probability & Statistics
-
-### Basics
-
-- [ ] Conditional Probability
-- [ ] Bayes' Theorem (Introduction)
-
-### Practice
-
-- [ ] Solve 5 Probability Questions
