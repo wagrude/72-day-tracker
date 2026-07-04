@@ -7,12 +7,12 @@
 #### Binary Search
 
 - [x] Solve 3 Binary Search Problems (1D Arrays)
-- [ ] Revise Lower Bound & Upper Bound
+- [x] Revise Lower Bound & Upper Bound
 
 ### Practice
 
-- [ ] Implement Floor & Ceil in a Sorted Array
-- [ ] Find First and Last Occurrence of an Element
+- [x] Implement Floor & Ceil in a Sorted Array
+- [x] Find First and Last Occurrence of an Element
 
 ---
 
