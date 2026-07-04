@@ -28,7 +28,7 @@
 
 ### Sessions
 
-* [ ] Session 19 – Break Statement
+* [x] Session 19 – Break Statement
 * [ ] Session 20 – Continue Statement
 * [ ] Session 21 – Pass Statement
 
