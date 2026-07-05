@@ -19,8 +19,8 @@
 ## DBMS
 
 * [x] Lecture 25
-* [ ] Lecture 26
-* [ ] Lecture 27
+* [x] Lecture 26
+* [x] Lecture 27
 
 ---
 
