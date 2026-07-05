@@ -13,7 +13,7 @@
 
 - [x] Search Insert Position
 - [x] Find Peak Element
-- [ ] Binary Search on Answer (Introduction)
+- [x] Binary Search on Answer (Introduction)
 
 ---
 
