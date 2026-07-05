@@ -6,14 +6,14 @@
 
 #### Binary Search
 
-- [ ] Solve 3 Binary Search Problems
-- [ ] Revise Previous Binary Search Problems
+- [x] Solve 3 Binary Search Problems
+- [x] Revise Previous Binary Search Problems
 
 ### Practice
 
-- [ ] Binary Search on Answer (Basics)
-- [ ] Find Square Root using Binary Search
-- [ ] Nth Root using Binary Search
+- [x] Binary Search on Answer (Basics)
+- [x] Find Square Root using Binary Search
+- [x] Nth Root using Binary Search
 
 ---
 
