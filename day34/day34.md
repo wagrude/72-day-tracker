@@ -6,13 +6,13 @@
 
 #### Binary Search
 
-- [ ] Solve 3 Binary Search Problems
-- [ ] Revise Binary Search on Answer
+- [x] Solve 3 Binary Search Problems
+- [x] Revise Binary Search on Answer
 
 ### Practice
 
-- [ ] Koko Eating Bananas
-- [ ] Minimum Days to Make m Bouquets
+- [x] Koko Eating Bananas
+- [x] Minimum Days to Make m Bouquets
 
 ---
 
