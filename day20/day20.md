@@ -69,8 +69,8 @@
 
 ### Unit 1
 
-* [ ] Microkernel
-* [ ] Reentrant Kernel
+* [x] Microkernel
+* [x] Reentrant Kernel
 * [ ] System Calls
 
 ---

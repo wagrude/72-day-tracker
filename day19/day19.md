@@ -69,7 +69,7 @@
 
 * [x] Multithreaded System
 * [x] Layered Structure
-* [ ] Monolithic Kernel
+* [x] Monolithic Kernel
 
 ---
 

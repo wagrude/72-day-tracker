@@ -69,7 +69,7 @@
 
 ### Process Management
 
-* [ ] Threads
+* [x] Threads
 * [ ] User Level Threads
 * [ ] Kernel Level Threads
 

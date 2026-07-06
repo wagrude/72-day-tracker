@@ -70,8 +70,8 @@
 ### Process Management
 
 * [ ] Process Creation
-* [ ] Context Switching
-* [ ] Process vs Thread
+* [x] Context Switching
+* [x] Process vs Thread
 
 ---
 
