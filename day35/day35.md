@@ -6,13 +6,13 @@
 
 #### Binary Search
 
-- [ ] Solve 3 Binary Search Problems
-- [ ] Revise Binary Search on Answer
+- [x] Solve 3 Binary Search Problems
+- [x] Revise Binary Search on Answer
 
 ### Practice
 
-- [ ] Capacity to Ship Packages Within D Days
-- [ ] Split Array Largest Sum
+- [x] Capacity to Ship Packages Within D Days
+- [x] Split Array Largest Sum
 
 ---
 
