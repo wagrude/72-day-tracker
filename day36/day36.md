@@ -6,7 +6,7 @@
 
 #### Binary Search
 
-- [ ] Solve 3 Binary Search Problems
+- [x] Solve 3 Binary Search Problems
 - [ ] Revise Binary Search on Answer
 
 ### Practice
