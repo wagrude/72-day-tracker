@@ -44,9 +44,9 @@
 
 ### Unit 1
 
-* [ ] State Space Search
-* [ ] Uninformed Search
-* [ ] Breadth First Search (BFS)
+* [x] State Space Search
+* [x] Uninformed Search
+* [x] Breadth First Search (BFS)
 
 ---
 
