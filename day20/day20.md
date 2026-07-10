@@ -28,9 +28,9 @@
 
 ### Sessions
 
-* [ ] Session 22 – Introduction to Strings
-* [ ] Session 23 – Built-in String Methods
-* [ ] Session 24 – Introduction to Lists
+* [x] Session 22 – Introduction to Strings
+* [x] Session 23 – Built-in String Methods
+* [x] Session 24 – Introduction to Lists
 
 ### Practice
 
