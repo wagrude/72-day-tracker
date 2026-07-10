@@ -71,7 +71,7 @@
 
 * [x] Microkernel
 * [x] Reentrant Kernel
-* [ ] System Calls
+* [x] System Calls
 
 ---
 
