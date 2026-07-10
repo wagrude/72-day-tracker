@@ -45,7 +45,7 @@
 ### Unit 1
 
 * [x] Depth First Search (DFS)
-* [x] Compare BFS vs DFS
+* [x] Compare BFS vs DFS.
 
 ---
 
