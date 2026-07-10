@@ -28,9 +28,9 @@
 
 ### Sessions
 
-* [ ] Session 28 – Introduction to Tuples
-* [ ] Session 29 – Built-in Dictionary Functions
-* [ ] Session 30 – Built-in Dictionary Methods
+* [x] Session 28 – Introduction to Tuples
+* [x] Session 29 – Built-in Dictionary Functions
+* [x] Session 30 – Built-in Dictionary Methods
 
 ### Practice
 

@@ -28,9 +28,9 @@
 
 ### Sessions
 
-* [ ] Session 25 – Basic List Operations
-* [ ] Session 26 – Built-in List Functions
-* [ ] Session 27 – List Methods
+* [x] Session 25 – Basic List Operations
+* [x] Session 26 – Built-in List Functions
+* [x] Session 27 – List Methods
 
 ### Practice
 

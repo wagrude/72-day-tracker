@@ -28,9 +28,9 @@
 
 ### Sessions
 
-* [ ] Session 31 – Introduction to Sets
-* [ ] Session 32 – Built-in Set Functions & Methods
-* [ ] Session 33 – Basics of Functions
+* [x] Session 31 – Introduction to Sets
+* [x] Session 32 – Built-in Set Functions & Methods
+* [x] Session 33 – Basics of Functions
 
 ### Practice
 
