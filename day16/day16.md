@@ -66,9 +66,9 @@
 
 ### Unit 1
 
-* [ ] AI Basics
-* [ ] History of AI
-* [ ] Intelligent Agents
+* [x] AI Basics
+* [x] History of AI
+* [x] Intelligent Agents
 
 ---
 
