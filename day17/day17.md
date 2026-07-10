@@ -65,8 +65,8 @@
 ### Unit 1
 
 * [ ] Problem Solving in AI
-* [ ] State Space Search
-* [ ] Search Space Representation
+* [x] State Space Search
+* [x] Search Space Representation
 
 ---
 
