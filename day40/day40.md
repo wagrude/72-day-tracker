@@ -6,9 +6,9 @@
 
 #### Strings (Start)
 
-- [ ] Learn String Basics
-- [ ] Character Arrays vs std::string
-- [ ] Solve 3 Easy String Problems
+- [x] Learn String Basics
+- [x] Character Arrays vs std::string
+- [x] Solve 3 Easy String Problems
 
 ### Practice
 
