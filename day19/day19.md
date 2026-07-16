@@ -29,7 +29,7 @@
 ### Sessions
 
 * [x] Session 19 – Break Statement
-* [ ] Session 20 – Continue Statement
+* [x] Session 20 – Continue Statement
 * [ ] Session 21 – Pass Statement
 
 ### Practice
