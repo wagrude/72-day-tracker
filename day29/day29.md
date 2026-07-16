@@ -29,7 +29,7 @@
 ### Sessions
 
 - [ ] Session 49 – Import Statement
-- [ ] Session 50 – From Import Statement
+- [x] Session 50 – From Import Statement
 - [ ] Session 51 – Using Python Packages
 
 ### Practice
