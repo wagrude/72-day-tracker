@@ -6,13 +6,13 @@
 
 #### Arrays
 
-* [ ] Solve 3 Medium Array Problems
-* [ ] Revise 2 Previously Solved Medium Problems
+* [x] Solve 3 Medium Array Problems
+* [x] Revise 2 Previously Solved Medium Problems
 
 ### Practice
 
-* [ ] Compare Brute Force vs Optimal Solution
-* [ ] Note Common Array Patterns
+* [x] Compare Brute Force vs Optimal Solution
+* [x] Note Common Array Patterns
 
 ---
 
