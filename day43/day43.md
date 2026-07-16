@@ -6,13 +6,13 @@
 
 #### Strings
 
-- [ ] Solve 3 String Problems
+- [x] Solve 3 String Problems
 
 ### Practice
 
-- [ ] Reverse Words in a String
+- [x] Reverse Words in a String
 - [ ] String to Integer (atoi)
-- [ ] Longest Common Prefix (Revision)
+- [x] Longest Common Prefix (Revision)
 
 ---
 

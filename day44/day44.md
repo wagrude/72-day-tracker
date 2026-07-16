@@ -6,13 +6,13 @@
 
 #### Strings
 
-- [ ] Solve 3 String Problems
+- [x] Solve 3 String Problems
 
 ### Practice
 
-- [ ] Longest Palindrome
+- [x] Longest Palindrome
 - [ ] Implement strStr()
-- [ ] Count and Say (Understand Approach)
+- [x] Count and Say (Understand Approach)
 
 ---
 
