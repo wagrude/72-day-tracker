@@ -6,13 +6,13 @@
 
 #### Strings
 
-- [ ] Solve 3 String Problems
+- [x] Solve 3 String Problems
 
 ### Practice
 
-- [ ] Longest Palindromic Substring (Revise)
-- [ ] Reverse Words in a String
-- [ ] Isomorphic Strings
+- [x] Longest Palindromic Substring (Revise)
+- [x] Reverse Words in a String
+- [x] Isomorphic Strings
 
 ---
 
