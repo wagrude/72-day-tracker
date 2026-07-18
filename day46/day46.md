@@ -2,21 +2,21 @@
 
 ## DSA + C++
 
-### Striver A2Z
+### Linked Lists
 
-#### Strings (Finish)
+- [ ] Introduction & Representation
+- [ ] Singly Linked List Operations
+- [ ] Doubly Linked List Basics
 
-- [ ] Longest Common Prefix
-- [ ] Valid Anagram
-- [ ] Group Anagrams
+### LeetCode
+
+- [ ] Reverse Linked List
+- [ ] Middle of the Linked List
+- [ ] Linked List Cycle
 
 ### Revision
 
-- [ ] String Hashing Basics
-- [ ] Two Pointer Pattern
-
----
-
+- [ ] Time Complexity of Linked List Operations
 ## DBMS
 
 ### Lectures
