@@ -4,7 +4,7 @@
 
 ### Linked Lists
 
-- [ ] Introduction & Representation
+- [x] Introduction & Representation
 - [ ] Singly Linked List Operations
 - [ ] Doubly Linked List Basics
 
