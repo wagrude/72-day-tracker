@@ -4,8 +4,8 @@
 
 ### Linked Lists
 
-- [ ] Introduction to Linked Lists
-- [ ] Insert at Beginning, End, Position
+- [x] Introduction to Linked Lists
+- [x] Insert at Beginning, End, Position
 - [ ] Delete Node
 - [ ] Traversal
 - [ ] Search in Linked List
